@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rocket's Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rocket"
 description              : &description "Let the computer do your dirty work."
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rocket Yu"
+  name             : "Rocket Yu Wing-Yin"
   avatar           : "profile.jpeg"
-  bio              : "Rocket received the B.Eng. degree in Information Engineering from City University of Hong Kong, in 2019. He is currently pursuing the Ph.D. degree at Department of Electrical Engineering at City University of Hong Kong. His research interests are deep learning and computer vision."
+  bio              : "PhD in CityU-HK EE interested in image/video generative model"
   location         : "Hong Kong"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "City University of Hong Kong"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OFhyM8QAAAAJ&hl=en"
   email            : "wingyinyu8-c@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -191,17 +191,18 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+
   # _pages
   - scope:
       path: ""
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Hongkong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
