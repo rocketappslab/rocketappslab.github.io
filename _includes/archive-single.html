@@ -17,10 +17,8 @@
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
-          {% if post.banner %}
-            "{{ post.banner }}"
-          {% elsif teaser contains "://" %}
-              "{{ teaser }}"
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
