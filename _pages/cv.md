@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /
 ---
 
 {% include base_path %}
@@ -16,10 +17,11 @@ Education
   * Supervised by [Dr. PO, Lai-Man](http://www.ee.cityu.edu.hk/~lmpo/) 
   * Research Interest
     * Image/Video generative model (VAE, GANs, DDPM)
+    * Human pose transfer
     * Semantic segmentation
     * Computer vision
     * Deep learning
-    * Machine learning 
+    * Machine learning
 
 * B.eng in Information Engineering, 2019
   * City University of Hong Kong 
