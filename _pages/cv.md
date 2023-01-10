@@ -28,7 +28,7 @@ Education
   * First-class Honor, Top 5% in corresponding cohort, Dean’s list, CGPA: 3.76 / 4.0
   * Final year project: Digital Empowerment for The Visually Impaired, supervised by [Dr. CHEUNG, Chak Chung Ray](https://www.ee.cityu.edu.hk/~rcheung/About_Me.html)
 
-Work Experience
+Work Experiences
 ======
 * Summer 2021: Statistics Enumerator
   * Census and Statistics Department, HKSAR Government
@@ -60,7 +60,7 @@ Work Experience
   * Event organization / coordination
   * To assist participants to solve programming problem
   
-Social Service
+Social Services
 ======
 * 2022 - 2023: Underprivileged Student Mentor
   * Strive and Rise Programme - Social Welfare Department, HKSAR Government
@@ -76,13 +76,13 @@ Social Service
   * Barrier Free City Orienteering Competition - Kowloon East PHAB Centre
   * Assisted in preparation and implementation of the competition
 
-Scholarship
+Scholarships
 ======
 * 2021, Research Tuition Scholarship, City University of Hong Kong
 * 2019, PCCW-HKT Scholarships, Hong Kong Telecom
 * 2017 - 2019, CityU Scholarship, City University of Hong Kong
 
-Award
+Awards
 ======
 * 2022, Outstanding Academic Performance Award, City University of Hong Kong
 * 2021, Research Student Symposium Competition (1/46), City University of Hong Kong
@@ -90,6 +90,30 @@ Award
 * 2019, Final Year Project Competition (3/168), City University of Hong Kong
 * 2018, Information Product Design Competition (3/20), City University of Hong Kong
 * 2017, Reaching Out Award, HKSAR Government Scholarship Fund 
+
+Technical Skills
+======
+* Deep learning framework
+  * PyTorch, TensorFlow, Keras, MXNet
+* Machine learning package 
+  * NumPy, Scikit-learn, Pandas, Matplotlib, OpenCV, Pillow
+* Programming language
+  * Python, Java, C++, Matlab, Swift, Kotlin
+* Internet of Thing
+  * Arduino, Raspberry Pi, Nvidia Jetson 
+* Cloud service
+  * Amazon AWS, Google Cloud, IBM Cloud, Microsoft Azure 
+* Mobile application development
+  * iOS, Android 
+* Web development 
+  * HTML5, CSS3, PHP, Javascript 
+* Database
+  * SQL
+* Networking
+  * Cisco Packet Tracer, Wireshark, Penetration Test
+* Game design
+  * Unity
+
 
 Publications
 ======
